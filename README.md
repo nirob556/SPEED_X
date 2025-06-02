@@ -90,7 +90,7 @@ apt update && apt upgrade && pkg install git && git clone https://github.com/nir
 ```
 ## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
+All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [SPEED_X], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
 
 You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
 ```
