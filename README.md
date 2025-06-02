@@ -66,7 +66,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the TermuX-Custom6 repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    https://github.com/nirob556/SPEED_X
     ```
 
 [-] Navigate to the cloned repository directory:
@@ -86,7 +86,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/nirob556/SPEED_X && cd TermuX-Custom && chmod +x * && bash setup.sh 
 ```
 ## Copyright Notice
 
